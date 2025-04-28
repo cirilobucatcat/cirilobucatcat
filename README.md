@@ -56,3 +56,9 @@ Feel free to check out my projects and reach out — I'm always up for collabora
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirilobucatcat&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="150" alt="top langs"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cirilobucatcat&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt="top langs"  />
+</div>
